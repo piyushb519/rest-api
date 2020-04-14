@@ -1,0 +1,42 @@
+[
+  {
+    "firstName": "john",
+    "middleName": "mathew",
+    "lastName": "doe",
+    "email": "john@sf.com",
+    "phone": 88978978978,
+    "role": 1,
+    "address": "chandigarh",
+    "id": 0
+  },
+  {
+    "firstName": "Ankit",
+    "middleName": "Kumar",
+    "lastName": "Srivastava",
+    "email": "ankit123@sf.com",
+    "phone": 78973478978,
+    "role": 2,
+    "address": "Mohali",
+    "id": 1
+  },
+  {
+    "firstName": "Simarpreet",
+    "middleName": "rai",
+    "lastName": "Singh",
+    "email": "Simar@sf.com",
+    "phone": 78973478978,
+    "role": 0,
+    "address": "chandigarh",
+    "id": 2
+  },
+  {
+    "firstName": "Aditi",
+    "middleName": "rai",
+    "lastName": "Singh",
+    "email": "Aditi@sf.com",
+    "phone": 78973448978,
+    "role": 3,
+    "address": "Noida",
+    "id": 3
+  }
+]
